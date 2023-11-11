@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp15/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0.0",
+          "ClassLibrary2": "1.0.0.0",
+          "ClassLibrary3": "1.0.0.0",
+          "ClassLibrary4": "1.0.0.0"
+        },
+        "runtime": {
+          "ConsoleApp15.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibrary2/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibrary3/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary3.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibrary4/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary4.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary2/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary3/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary4/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
