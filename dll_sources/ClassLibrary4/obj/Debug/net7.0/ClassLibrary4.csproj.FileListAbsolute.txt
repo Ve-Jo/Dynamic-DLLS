@@ -1,0 +1,12 @@
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\bin\Debug\net7.0\ClassLibrary4.deps.json
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\bin\Debug\net7.0\ClassLibrary4.dll
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\bin\Debug\net7.0\ClassLibrary4.pdb
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.csproj.AssemblyReference.cache
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.AssemblyInfoInputs.cache
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.AssemblyInfo.cs
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.dll
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\refint\ClassLibrary4.dll
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ClassLibrary4.pdb
+C:\Users\PAPA\source\repos\ClassLibrary1\ClassLibrary4\obj\Debug\net7.0\ref\ClassLibrary4.dll
