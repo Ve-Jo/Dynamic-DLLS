@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>..\..\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary2">
+      <HintPath>..\..\ClassLibrary1\ClassLibrary2\bin\Debug\net7.0\ClassLibrary2.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary3">
+      <HintPath>..\..\ClassLibrary1\ClassLibrary3\bin\Debug\net7.0\ClassLibrary3.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary4">
+      <HintPath>..\..\ClassLibrary1\ClassLibrary4\bin\Debug\net7.0\ClassLibrary4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
